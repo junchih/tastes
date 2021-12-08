@@ -1,0 +1,10 @@
+syntax: glob
+
+# for mac stuff
+.DS_Store
+._*
+# for vim
+.*.sw?
+
+# for php-cs-fixer
+.php-cs-fixer.cache
